@@ -67,6 +67,18 @@
     text-align: center;
     color: whitesmoke;
     font-size: 20px;
+    /* border: 2px solid #303531 */
+}
+.newbord{
+    background-color: #303531;
+    /* height: 300%;  */
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.contacto{
+    /* background-color: #1b201ce3; */
+    color: #303531
 }
 
 
