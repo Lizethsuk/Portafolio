@@ -94,7 +94,13 @@ body{
 }
 .nav-item{
     background-color: #303531;
-    color: whitesmoke
+    color: whitesmoke;
+    padding: 0.4%;
+    position: center
+}
+.nav-item:hover{
+    color: #c69071;
+    background-color: black; 
 }
 
 .card-text{
