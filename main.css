@@ -1,7 +1,7 @@
-.portada{   
+#portada{   
     height: 100vh;
     width: 100%;
-    background-image: url('imagenes/abstract-art-artistic-990826\ \(1\).jpg');
+    background-image: url('imagenes/paisaje.jpg');
 
     background-size: cover;
     display: table;
@@ -20,7 +20,7 @@ h1{
 
 }
 
-.aboutMe{
+#aboutMe{
     height: 100vh;
     width: 100%;
     background-color: rgb(71, 38, 37);
@@ -39,7 +39,7 @@ h1{
     
 }
 
-.skills{
+#skills{
     height: 100vh;
     width: 100%;
     background-image: url('imagenes/paisaje.jpg');
@@ -49,10 +49,10 @@ h1{
     
 }
 
-.proyectos{
+#proyectos{
     height: 100vh;
     width: 100%;
-    background-image: url('imagenes/abstract-art-background-1040473.jpg');
+    background-color: rgb(71, 38, 37);
     background-size: cover;
     display: table;
     background-attachment: fixed;
@@ -91,5 +91,11 @@ a,p{
 
 .btn{
     background-color: rgba(0, 0, 0, 0.499);
-    border-radius: 300px;
+    border-radius: 220px;
+}
+
+.navbar{
+    color: white;
+    font-size: 18px;
+    background-color: rgb(71, 38, 37)
 }
