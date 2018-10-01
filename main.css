@@ -89,11 +89,12 @@ h3{
 .card-body{
     color: rgb(0, 0, 0);
     background-color: wheat;
-    height: 400px;  
+    height: 445px;  
 }
 .card-text{
     color: rgba(0, 0, 0, 0.895);
     font-size: 16px;
+    height: 250px;
 
 }
 
