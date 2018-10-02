@@ -10,7 +10,6 @@
     height: 100vh;
     width: 100%;
     background-image: url('imagenes/paisaje.jpg');
-
     background-size: cover;
     display: table;
     background-attachment: fixed;
@@ -19,22 +18,8 @@
 .titulo{
     font-size: 50px;
     color:white;
-    /* margin: 0px; */
     text-align: center;
-    /* display: table-cell; */
     vertical-align: middle;
-    /* border: 2px solid whitesmoke */
-
-}
-
-.front{
-    font-size: 40px;
-    font-weight: bold
-}
-
-h3{
-    font-size: 35px;
-    color: white
 }
 
 #aboutMe{
@@ -45,14 +30,12 @@ h3{
     display: table;
     background-attachment: fixed;
     color: whitesmoke;
-    font-size: 25px;
+    font-size: 22px;
     vertical-align: middle;
 }
 
 .textMe{
-    vertical-align: middle;
-    /* padding: 10%; */
-    
+    vertical-align: middle;    
 }
 
 #skills{
@@ -62,12 +45,10 @@ h3{
     background-size: cover;
     display: table;
     background-attachment: fixed;
-    
 }
 
 .skill{
-    font-size: 19px
-
+    font-size: 22px
 }
 
 #proyectos{
@@ -78,24 +59,22 @@ h3{
     display: table;
     background-attachment: fixed;
     color: whitesmoke;
-    font-size: 27px;
+    font-size: 22px;
     vertical-align: middle;
 
 }
 .card-title{
     font-weight: bold;
-    font-size: 22px;
 }
 .card-body{
     color: rgb(0, 0, 0);
     background-color: wheat;
-    height: 445px;  
+    height: 400px;  
 }
 .card-text{
     color: rgba(0, 0, 0, 0.895);
     font-size: 16px;
-    height: 250px;
-
+    height: 260px;
 }
 
 footer{
@@ -104,18 +83,17 @@ footer{
 a,p{
     color: wheat
 }
-
 .contact{
     color:wheat;
-
 }
 
 .btn{
     background-color: rgb(71, 38, 37);
     color: white;
-    height: 44px;
-    width: 115px;
-    font-weight: bold
+    height: 40px;
+    width: 105px;
+    font-weight: bold;
+
 
     /* width: 70px; */
     /* height: 60px;  */
@@ -131,7 +109,7 @@ a:hover{
 
 .navbar{
     color: white;
-    font-size: 18px;
+    font-size: 16px;
     background-color: rgb(71, 38, 37);
 }
 
